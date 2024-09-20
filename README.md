@@ -6,7 +6,7 @@
   <li>Diego Oliveira Santana Cipriano</li>
   <li>Luiz Claudio da Silva Aguiar Filho</li>
   <li>Maria Gabriela Anselmo de Souza Batista</li>
-  <li>Luiz Claudio da Silva Aguiar Filho</li>
+  <li>Matheus Ataíde Araujo</li>
   <li>Jayme Holanda Aguiar</li>
 </ul>
 
